@@ -1,0 +1,1754 @@
+{
+  "common_nothing_to_pay": "Nothing to pay",
+  "common_login_warning": "You need to log in",
+  "common_see_details": "see details",
+  "common_no_payment_method_added": "No payment method is added",
+  "common_payment_choice_warning": "Please choose one option to pay",
+  "common_no_data_available": "No data is available",
+  "common_no_address_added": "No Addresses is added",
+  "common_loading_more_products": "Loading More Products ...",
+  "common_no_more_products": "No More Products",
+  "common_no_product_is_available": "No product is available",
+  "common_loading_more_brands": "Loading More Brands ...",
+  "common_no_more_brands": "No More Brands",
+  "common_no_brand_is_available": "No brand is available",
+  "common_loading_more_items": "Loading More Items ...",
+  "common_no_more_items": "No More Items",
+  "common_no_item_is_available": "No item is available",
+  "common_loading_more_shops": "Loading More Shops ...",
+  "common_no_more_shops": "No More Shops",
+  "common_no_shop_is_available": "No shop is available",
+  "common_loading_more_histories": "Loading More Histories ...",
+  "common_no_more_histories": "No More Histories",
+  "common_no_history_is_available": "No history is available",
+  "common_loading_more_categories": "Loading More Categories ...",
+  "common_no_more_categories": "No More Categories",
+  "common_no_category_is_available": "No category is available",
+  "common_coming_soon": "Coming soon",
+  "common_close_in_all_capital": "CLOSE",
+  "common_close_in_all_lower": "close",
+  "common_close_ucfirst": "Close",
+  "common_cancel_in_all_capital": "CANCEL",
+  "common_cancel_in_all_lower": "cancel",
+  "common_cancel_ucfirst": "Cancel",
+  "common_confirm_in_all_capital": "CONFIRM",
+  "common_confirm_in_all_lower": "confirm",
+  "common_confirm_ucfirst": "Confirm",
+  "common_update_in_all_capital": "UPDATE",
+  "common_update_in_all_lower": "update",
+  "common_update_ucfirst": "Update",
+  "common_send_in_all_capital": "SEND",
+  "common_send_in_all_lower": "send",
+  "common_send_ucfirst": "Send",
+  "common_clear_in_all_capital": "CLEAR",
+  "common_clear_in_all_lower": "clear",
+  "common_clear_ucfirst": "Clear",
+  "common_apply_in_all_capital": "APPLY",
+  "common_apply_in_all_lower": "apply",
+  "common_apply_ucfirst": "Apply",
+  "common_add_in_all_capital": "ADD",
+  "common_add_in_all_lower": "add",
+  "common_add_ucfirst": "Add",
+  "common_copied": "Copied",
+  "common_proceed": "Proceed",
+  "common_proceed_in_all_caps": "PROCEED",
+  "common_submit": "Submit",
+  "common_view_more": "View More",
+  "common_show_less": "Show Less",
+  "common_selected": "Selected",
+  "common_creating_order": "Creating order ...",
+  "common_payment_cancelled": "Payment Cancelled",
+  "common_photo_permission": "Photo Permission",
+  "common_app_needs_permission": "This app needs permission",
+  "common_deny": "Deny",
+  "common_settings": "Settings",
+  "common_give_photo_permission": "Go to your application settings and give photo permission",
+  "common_no_file_chosen": "No file is chosen",
+  "main_drawer_not_logged_in": "Not Logged In",
+  "main_drawer_change_language": "Change Language",
+  "main_drawer_home": "Home",
+  "main_drawer_profile": "Profile",
+  "main_drawer_orders": "Orders",
+  "main_drawer_my_wishlist": "My Wishlist",
+  "main_drawer_messages": "Messages",
+  "main_drawer_wallet": "Wallet",
+  "main_drawer_login": "Login",
+  "main_drawer_logout": "Logout",
+  "home_screen_top_categories": "Top Categories",
+  "home_screen_brands": "Brands",
+  "home_screen_top_sellers": "Top Sellers",
+  "home_screen_todays_deal": "Todays Deal",
+  "home_screen_flash_deal": "Flash Deal",
+  "home_screen_featured_categories": "Featured Categories",
+  "home_screen_featured_products": "Featured Products",
+  "home_screen_search": "Search",
+  "home_screen_no_carousel_image_found": "No carousel image found",
+  "home_screen_no_category_found": "No category found",
+  "category_list_screen_top_categories": "Top Categories",
+  "category_list_screen_categories": "Categories",
+  "category_list_screen_view_products": "View Products",
+  "category_list_screen_view_subcategories": "View Sub-Categories",
+  "category_list_screen_no_subcategories": "No sub categories available",
+  "category_list_screen_all_products_of": "All Products of",
+  "cart_screen_cannot_order_more_than": "Cannot order more than",
+  "cart_screen_items_of_this": "item(s) of this",
+  "cart_screen_sure_remove_item": "Are you sure to remove this item ?",
+  "cart_screen_cancel": "Cancel",
+  "cart_screen_confirm": "Confirm",
+  "cart_screen_cart_empty": "Cart is empty",
+  "cart_screen_total_amount": "Total Amount",
+  "cart_screen_update_cart": "UPDATE CART",
+  "cart_screen_proceed_to_shipping": "PROCEED TO SHIPPING",
+  "cart_screen_shopping_cart": "Shopping Cart",
+  "cart_screen_please_log_in": "Please log in to see the cart items",
+  "profile_screen_please_log_in": "Please log in to see the profile",
+  "profile_screen_orders": "Orders",
+  "profile_screen_profile": "Profile",
+  "profile_screen_address": "Address",
+  "profile_screen_notification": "Notification",
+  "profile_screen_purchase_history": "Purchase History",
+  "profile_screen_earning_points": "Earning Points History",
+  "profile_screen_refund_requests": "Refund Requests",
+  "profile_screen_in_your_cart": "In your cart",
+  "profile_screen_in_wishlist": "In wishlist",
+  "profile_screen_in_ordered": "In Ordered",
+  "profile_screen_check_balance": "Check Balance",
+  "profile_screen_account": "Account",
+  "flash_deal_list_screen_flash_deal_has_ended": "Flashdeal has ended",
+  "flash_deal_list_screen_ended": "Ended",
+  "flash_deal_list_flash_deals": "Flash Deals",
+  "todays_deal_products_screen_todays_deal": "Today's Deal",
+  "top_selling_products_screen_top_selling_products": "Top Selling Products",
+  "filter_screen_product": "Product",
+  "filter_screen_products": "Products",
+  "filter_screen_sellers": "Sellers",
+  "filter_screen_brands": "Brands",
+  "filter_screen_categories": "Categories",
+  "filter_screen_filter_warning": "You can use filters while searching for products.",
+  "filter_screen_filter": "Filter",
+  "filter_screen_sort_products_by": "Sort Products By",
+  "filter_screen_price_high_to_low": "Price high to low",
+  "filter_screen_price_low_to_high": "Price low to high",
+  "filter_screen_price_new_arrival": "New Arrival",
+  "filter_screen_popularity": "Popularity",
+  "filter_screen_top_rated": "Top Rated",
+  "filter_screen_maximum": "Maximum",
+  "filter_screen_minimum": "Minimum",
+  "filter_screen_price_range": "Price Range",
+  "filter_screen_search_here": "Search here ?",
+  "filter_screen_no_suggestion_available": "No suggestion is available",
+  "filter_screen_searched_for": "searched for",
+  "filter_screen_times": "time(s)",
+  "filter_screen_found": "found",
+  "filter_screen_loading_suggestions": "Loading suggestions...",
+  "filter_screen_sort": "Sort",
+  "filter_screen_default": "Default",
+  "filter_screen_sort_warning": "You can use sorting while searching for products.",
+  "filter_screen_min_max_warning": "Min price cannot be larger than max price",
+  "product_details_screen_copy_product_link": "Copy Product Link",
+  "product_details_screen_share_options": "Share Options",
+  "product_details_screen_seller_chat_title": "Title",
+  "product_details_screen_seller_chat_enter_title": "Enter Title",
+  "product_details_screen_seller_chat_messasge": "Message",
+  "product_details_screen_seller_chat_enter_messasge": "Enter Message",
+  "product_details_screen_seller_chat_title_message_empty_warning": "Title or message cannot be empty",
+  "product_details_screen_seller_chat_creation_unable_warning": "Could not create conversation",
+  "product_details_screen_snackbar_added_to_cart": "Added to cart",
+  "product_details_screen_snackbar_show_cart": "SHOW CART",
+  "product_details_screen_description": "Description:",
+  "product_details_screen_brand": "Brand:",
+  "product_details_screen_total_price": "Total Price:",
+  "product_details_screen_price": "Price:",
+  "product_details_screen_color": "Color:",
+  "product_details_screen_seller": "Seller",
+  "product_details_screen_club_point": "Club Point:",
+  "product_details_screen_quantity": "Quantity:",
+  "product_details_screen_video_not_available": "Video not available",
+  "product_details_screen_video": "Video",
+  "product_details_screen_reviews": "Reviews",
+  "product_details_screen_seller_policy": "Seller Policy",
+  "product_details_screen_return_policy": "Return Policy",
+  "product_details_screen_support_policy": "Support Policy",
+  "product_details_screen_products_may_like": "Products you may also like",
+  "product_details_screen_top_selling_products_from_seller": "Top Selling Products from this seller",
+  "product_details_screen_chat_with_seller": "Chat with seller",
+  "product_details_screen_available": "available",
+  "product_details_screen_button_add_to_cart": "Add to Cart",
+  "product_details_screen_button_buy_now": "Buy Now",
+  "product_details_screen_no_top_selling_product": "No top selling products from this seller",
+  "product_details_screen_no_related_product": "No related products",
+  "order_list_screen_all": "All",
+  "order_list_screen_paid": "Paid",
+  "order_list_screen_unpaid": "Unpaid",
+  "order_list_screen_confirmed": "Confirmed",
+  "order_list_screen_on_delivery": "On Delivery",
+  "order_list_screen_delivered": "Delivered",
+  "order_list_screen_no_more_orders": "No More Orders",
+  "order_list_screen_loading_more_orders": "Loading More order ...",
+  "order_list_screen_purchase_history": "Purchase History",
+  "order_list_screen_payment_status": "Payment Status",
+  "order_list_screen_delivery_status": "Delivery Status",
+  "order_details_screen_refund_product_name": "Product Name",
+  "order_details_screen_refund_order_code": "Order Code",
+  "order_details_screen_refund_reason": "Reason",
+  "order_details_screen_refund_reason_empty_warning": "Reason cannot be empty",
+  "order_details_screen_refund_enter_reason": "Enter Reason",
+  "order_details_screen_refund_snackbar_show_request_list": "Show Request List",
+  "order_details_screen_ordered_product": "Ordered Product",
+  "order_details_screen_no_item_ordered": "No items are ordered",
+  "order_details_screen_sub_total": "SUB TOTAL",
+  "order_details_screen_tax": "TAX",
+  "order_details_screen_shipping_cost": "SHIPPING COST",
+  "order_details_screen_discount": "DISCOUNT",
+  "order_details_screen_grand_total": "GRAND TOTAL",
+  "order_details_screen_timeline_tile_order_placed": "Order placed",
+  "order_details_screen_timeline_tile_confirmed": "Confirmed",
+  "order_details_screen_timeline_tile_on_delivery": "On Delivery",
+  "order_details_screen_timeline_tile_delivered": "Delivered",
+  "order_details_screen_order_code": "Order Code",
+  "order_details_screen_shipping_method": "Shipping Method",
+  "order_details_screen_order_date": "Order Date",
+  "order_details_screen_payment_method": "Payment Method",
+  "order_details_screen_payment_status": "Payment Status",
+  "order_details_screen_delivery_status": "Delivery Status",
+  "order_details_screen_shipping_address": "Shipping Address",
+  "order_details_screen_total_amount": "Total Amount",
+  "order_details_screen_name": "Name",
+  "order_details_screen_email": "Email",
+  "order_details_screen_address": "Address",
+  "order_details_screen_city": "City",
+  "order_details_screen_state": "State",
+  "order_details_screen_country": "Country",
+  "order_details_screen_phone": "Phone",
+  "order_details_screen_postal_code": "Postal code",
+  "order_details_screen_item": "item",
+  "order_details_screen_ask_for_refund": "Ask For Refund",
+  "order_details_screen_refund_status": "Refund Status",
+  "order_details_screen_order_details": "Order Details",
+  "order_details_screen_make_offline_payment": "Make Offline Payment",
+  "shipping_info_screen_address_choice_warning": "Choose an address",
+  "shipping_info_screen_address_or_pickup_choice_warning": "Choose an address or pickup point",
+  "shipping_info_screen_country_warning": "Select a country",
+  "shipping_info_screen_go_to_address": "To add or edit addresses, Go to address page",
+  "shipping_info_screen_address": "Address",
+  "shipping_info_screen_city": "City",
+  "shipping_info_screen_enter_city": "Enter City",
+  "shipping_info_screen_postal_code": "Postal Code",
+  "shipping_info_screen_country": "Country",
+  "shipping_info_screen_state": "State",
+  "shipping_info_screen_phone": "Phone",
+  "shipping_info_screen_shipping_cost": "Shipping Cost",
+  "shipping_info_screen_btn_proceed_to_checkout": "PROCEED TO CHECKOUT",
+  "no_pickup_point": "Pickup Point Is Unavailable",
+  "pickup_point": "Pickup Point",
+  "messenger_list_screen_messages": "Messages",
+  "chat_screen_btn_load_more": "Load More",
+  "chat_screen_type_message_here": "Type your message here ...",
+  "wallet_screen_amount_warning": "Amount cannot be empty",
+  "wallet_screen_my_wallet": "My Wallet",
+  "wallet_screen_no_recharges_yet": "No recharges yet",
+  "wallet_screen_payment_method": "Payment Method",
+  "wallet_screen_approval_status": "Approval Status",
+  "wallet_screen_wallet_balance": "Wallet Balance",
+  "wallet_screen_last_recharged": "Last recharged",
+  "wallet_screen_wallet_recharge_history": "Wallet Recharge History",
+  "wallet_screen_amount": "Amount",
+  "wallet_screen_enter_amount": "Enter Amount",
+  "recharge_wallet_screen_recharge_wallet": "Recharge Wallet",
+  "checkout_screen_enter_coupon_code": "Enter coupon code",
+  "checkout_screen_coupon_code_warning": "Enter coupon code",
+  "checkout_screen_subtotal": "SUB TOTAL",
+  "checkout_screen_tax": "TAX",
+  "checkout_screen_shipping_cost": "SHIPPING COST",
+  "checkout_screen_discount": "DISCOUNT",
+  "checkout_screen_grand_total": "GRAND TOTAL",
+  "checkout_screen_total_amount": "Total Amount",
+  "checkout_screen_coupon_code": "Coupon Code",
+  "checkout_screen_apply_coupon": "APPLY COUPON",
+  "checkout_screen_place_my_order": "PLACE MY ORDER",
+  "checkout_screen_remove": "Remove",
+  "checkout_screen_checkout": "Checkout",
+  "wishlist_screen_login_warning": "Please log in to see the wishlist items",
+  "wishlist_screen_my_wishlist": "My Wishlist",
+  "login_screen_email_warning": "Enter email",
+  "login_screen_phone_warning": "Enter phone number",
+  "login_screen_password_warning": "Enter password",
+  "login_screen_login_to": "Login to",
+  "login_screen_or_login_with_phone": "or, Login with a phone number",
+  "login_screen_or_login_with_email": "or, Login with an email",
+  "login_screen_email": "Email",
+  "login_screen_password": "Password",
+  "login_screen_phone": "Phone",
+  "login_screen_forgot_password": "Forgot Password?",
+  "login_screen_log_in": "Log in",
+  "login_screen_or_create_new_account": "or, create a new account ?",
+  "login_screen_sign_up": "Sign up",
+  "login_screen_login_with": "Login with",
+  "registration_screen_name_warning": "Enter your name",
+  "registration_screen_email_warning": "Enter email",
+  "registration_screen_phone_warning": "Enter phone number",
+  "registration_screen_password_warning": "Enter password",
+  "registration_screen_password_confirm_warning": "Confirm your password",
+  "registration_screen_password_length_warning": "Password must contain atleast 6 characters",
+  "registration_screen_password_length_recommendation": "Password must contain at least 6 characters",
+  "registration_screen_password_match_warning": "Passwords do not match",
+  "registration_screen_join": "Join",
+  "registration_screen_name": "Name",
+  "registration_screen_email": "Email",
+  "registration_screen_phone": "Phone",
+  "registration_screen_password": "Password",
+  "registration_screen_retype_password": "Retype Password",
+  "registration_screen_or_register_with_phone": "or, Register with a phone number",
+  "registration_screen_or_register_with_email": "or, Register with an email",
+  "registration_screen_register_sign_up": "Sign Up",
+  "registration_screen_already_have_account": "Already have an Account ?",
+  "registration_screen_log_in": "Log in",
+  "password_forget_screen_email": "Email",
+  "password_forget_screen_phone": "Phone",
+  "password_forget_screen_email_warning": "Enter email",
+  "password_forget_screen_phone_warning": "Enter phone number",
+  "password_forget_screen_forget_password": "Forget Password ?",
+  "password_forget_screen_send_code_via_phone": "or, send code via phone number",
+  "password_forget_screen_send_code_via_email": "or, send code via email",
+  "otp_screen_btn_send_code": "Send Code",
+  "otp_screen_verification_code_warning": "Enter verification code",
+  "otp_screen_verify_your": "Verify your",
+  "otp_screen_email_account": "Email Account",
+  "otp_screen_phone_number": "Phone Number",
+  "otp_screen_enter_verification_code_to_email": "Enter the verification code that sent to your email recently.",
+  "otp_screen_enter_verification_code_to_phone": "Enter the verification code that sent to your phone recently.",
+  "otp_screen_confirm": "Confirm",
+  "otp_screen_resend_code": "Resend Code",
+  "password_otp_screen_code_warning": "Enter the code",
+  "password_otp_screen_password_warning": "Enter password",
+  "password_otp_screen_password_confirm_warning": "Confirm your password",
+  "password_otp_screen_password_length_warning": "Password must contain at least 6 characters",
+  "password_otp_screen_password_length_recommendation": "Password must contain at least 6 characters",
+  "password_otp_screen_password_match_warning": "Passwords do not match",
+  "password_otp_screen_enter_the_code_sent": "Enter the code sent",
+  "password_otp_screen_enter_verification_code_to_email": "Enter the verification code that sent to your email recently.",
+  "password_otp_screen_enter_verification_code_to_phone": "Enter the verification code that sent to your phone recently.",
+  "password_otp_screen_password": "Password",
+  "password_otp_screen_retype_password": "Retype Password",
+  "password_otp_screen_confirm": "Confirm",
+  "password_otp_screen_resend_code": "Resend Code",
+  "address_screen_address_warning": "Enter Address",
+  "address_screen_back_to_shipping_info": "Back to shipping info",
+  "address_screen_city_warning": "Select a city",
+  "address_screen_state_warning": "Select a state",
+  "address_screen_country_warning": "Select a country",
+  "address_screen_address": "Address",
+  "address_screen_enter_address": "Enter Address",
+  "address_screen_city": "City",
+  "address_screen_select_city": "Select a city",
+  "address_screen_enter_city": "Enter City",
+  "address_screen_postal_code": "Postal Code",
+  "address_screen_enter_postal_code": "Enter Postal Code",
+  "address_screen_country": "Country",
+  "address_screen_select_country": "Select a country",
+  "address_screen_enter_country": "Enter Country",
+  "address_screen_state": "State",
+  "address_screen_select_state": "Select a state",
+  "address_screen_enter_state": "Enter State",
+  "address_screen_phone": "Phone",
+  "address_screen_enter_phone": "Enter Phone",
+  "address_screen_address_remove_warning": "Are you sure to remove this address ?",
+  "address_screen_addresses_of_user": "Addresses of user",
+  "address_screen_addresses_to_make_default": "Double tap on an address to make it default",
+  "address_screen_no_country_available": "No country available",
+  "address_screen_no_state_available": "No state available",
+  "address_screen_no_city_available": "No city available",
+  "address_screen_loading_countries": "Loading Countries ...",
+  "address_screen_loading_states": "Loading States ...",
+  "address_screen_loading_cities": "Loading Cities ...",
+  "address_screen_select_a_country_first": "Select a country first",
+  "address_screen_select_a_state_first": "Select a state first",
+  "main_screen_bottom_navigation_home": "Home",
+  "main_screen_bottom_navigation_categories": "Categories",
+  "main_screen_bottom_navigation_cart": "Cart",
+  "main_screen_bottom_navigation_profile": "Profile",
+  "bkash_screen_fetching_bkash_url": "Fetching bkash url ...",
+  "bkash_screen_pay_with_bkash": "Pay with Bkash",
+  "nagad_screen_fetching_nagad_url": "Fetching nagad url ...",
+  "nagad_screen_pay_with_nagad": "Pay with Nagad",
+  "iyzico_screen_pay_with_iyzico": "Pay with Iyzico",
+  "paypal_screen_fetching_paypal_url": "Fetching paypal url ...",
+  "paypal_screen_pay_with_paypal": "Pay with Paypal",
+  "paystack_screen_pay_with_paystack": "Pay with Paystack",
+  "paytm_screen_pay_with_paytm": "Pay with Paytm",
+  "razorpay_screen_pay_with_razorpay": "Pay with Razorpay",
+  "sslcommerz_screen_fetching_sslcommerz_url": "Fetching sslcommerz url ...",
+  "sslcommerz_screen_pay_with_sslcommerz": "Pay with Sslcommerz",
+  "stripe_screen_pay_with_stripe": "Pay with Stripe",
+  "brand_products_screen_search_product_of_brand": "Search products of brand",
+  "category_products_screen_search_products_from": "Search products from",
+  "flash_deal_products_screen_search_products_from": "Search products from",
+  "change_language_change_language": "Change Language",
+  "change_language_no_language_is_added": "No language is Added",
+  "club_point_screen_snackbar_points_converted": "Points converted to wallet",
+  "club_point_screen_snackbar_show_wallet": "SHOW WALLET",
+  "club_point_screen_earned_points": "Earned Points",
+  "club_point_screen_converted_question": "Converted ?",
+  "club_point_screen_done": "DONE",
+  "club_point_screen_convert": "Convert",
+  "map_location_screen_your_delivery_location": "Your delivery location . . .",
+  "map_location_screen_calculating": "Calculating...",
+  "map_location_screen_pick_here": "Pick Here",
+  "offline_screen_amount_name_trxid_warning": "Amount,Name and Transaction Id are necessary",
+  "offline_screen_photo_warning": "Photo proof is necessary",
+  "offline_screen_offline_payment": "Offline Payment",
+  "offline_screen_fields_mandatory": "All * marked fields are mandatory",
+  "offline_screen_fill_up_necessary_info": "Correctly fill-up the necessary information. Later you cannot edit or re-submit the form",
+  "offline_screen_amount": "Amount",
+  "offline_screen_name": "Name",
+  "offline_screen_transaction_id": "Transaction Id",
+  "offline_screen_photo_proof": "Photo Proof",
+  "offline_screen_only_image_file_allowed": "only image file allowed",
+  "product_reviews_screen_type_your_review_here": "Type your review here ...",
+  "product_reviews_screen_no_more_reviews": "No More Reviews",
+  "product_reviews_screen_loading_more_reviews": "Loading More Reviews ...",
+  "product_reviews_screen_no_reviews_yet": "No reviews yet. Be the first one to review this product",
+  "product_reviews_screen_reviews": "Reviews",
+  "product_reviews_screen_login_warning": "You need to login to give a review",
+  "product_reviews_screen_review_empty_warning": "Review cannot be empty",
+  "product_reviews_screen_star_warning": "At least one star must be given",
+  "profile_edit_screen_name_warning": "Enter your name",
+  "profile_edit_screen_email_warning": "Enter email",
+  "profile_edit_screen_phone_warning": "Enter phone number",
+  "profile_edit_screen_password_warning": "Enter password",
+  "profile_edit_screen_password_confirm_warning": "Confirm your password",
+  "profile_edit_screen_password_length_warning": "Password must contain atleast 6 characters",
+  "profile_edit_screen_password_match_warning": "Passwords do not match",
+  "profile_edit_screen_password_length_recommendation": "Password must contain at least 6 characters",
+  "profile_edit_screen_login_warning": "Please log in to see the profile",
+  "profile_edit_screen_basic_information": "Basic Information",
+  "profile_edit_screen_name": "Name",
+  "profile_edit_screen_password": "Password",
+  "profile_edit_screen_retype_password": "Retype Password",
+  "profile_edit_screen_btn_update_profile": "Update Profile",
+  "profile_edit_screen_edit_profile": "Edit Profile",
+  "refund_request_screen_refund_requests": "Refund Requests",
+  "refund_request_screen_refund_status": "Refund Status",
+  "seller_details_screen_top_selling_products": "Top Selling Products",
+  "seller_details_screen_featured_products": "Featured Products",
+  "seller_details_screen_new_arrivals": "New Arrivals",
+  "seller_details_screen_no_featured_porducts": "No featured product is available from this seller",
+  "seller_details_screen_no_top_selling_products": "No top selling products from this seller",
+  "seller_details_screen_no_new_arrival": "No new arrivals",
+  "seller_details_screen_btn_view_all_products": "View All Products From This Seller",
+  "seller_products_screen_search_products_of_shop": "Search products of shop",
+  "@common_nothing_to_pay": {
+    "description": "Nothing to pay"
+  },
+  "@common_login_warning": {
+    "description": "You need to log in"
+  },
+  "@common_see_details": {
+    "description": "see details"
+  },
+  "@common_no_payment_method_added": {
+    "description": "No payment method is added"
+  },
+  "@common_payment_choice_warning": {
+    "description": "Please choose one option to pay"
+  },
+  "@common_no_data_available": {
+    "description": "No data is available"
+  },
+  "@common_no_address_added": {
+    "description": "No Addresses is added"
+  },
+  "@common_loading_more_products": {
+    "description": "Loading More Products ..."
+  },
+  "@common_no_more_products": {
+    "description": "No More Products"
+  },
+  "@common_no_product_is_available": {
+    "description": "No product is available"
+  },
+  "@common_loading_more_brands": {
+    "description": "Loading More Brands ..."
+  },
+  "@common_no_more_brands": {
+    "description": "No More Brands"
+  },
+  "@common_no_brand_is_available": {
+    "description": "No brand is available"
+  },
+  "@common_loading_more_items": {
+    "description": "Loading More Items ..."
+  },
+  "@common_no_more_items": {
+    "description": "No More Items"
+  },
+  "@common_no_item_is_available": {
+    "description": "No item is available"
+  },
+  "@common_loading_more_shops": {
+    "description": "Loading More Shops ..."
+  },
+  "@common_no_more_shops": {
+    "description": "No More Shops"
+  },
+  "@common_no_shop_is_available": {
+    "description": "No shop is available"
+  },
+  "@common_loading_more_histories": {
+    "description": "Loading More Histories ..."
+  },
+  "@common_no_more_histories": {
+    "description": "No More Histories"
+  },
+  "@common_no_history_is_available": {
+    "description": "No history is available"
+  },
+  "@common_loading_more_categories": {
+    "description": "Loading More Categories ..."
+  },
+  "@common_no_more_categories": {
+    "description": "No More Categories"
+  },
+  "@common_no_category_is_available": {
+    "description": "No category is available"
+  },
+  "@common_coming_soon": {
+    "description": "Coming soon"
+  },
+  "@common_close_in_all_capital": {
+    "description": "CLOSE"
+  },
+  "@common_close_in_all_lower": {
+    "description": "close"
+  },
+  "@common_close_ucfirst": {
+    "description": "Close"
+  },
+  "@common_cancel_in_all_capital": {
+    "description": "CANCEL"
+  },
+  "@common_cancel_in_all_lower": {
+    "description": "cancel"
+  },
+  "@common_cancel_ucfirst": {
+    "description": "Cancel"
+  },
+  "@common_confirm_in_all_capital": {
+    "description": "CONFIRM"
+  },
+  "@common_confirm_in_all_lower": {
+    "description": "confirm"
+  },
+  "@common_confirm_ucfirst": {
+    "description": "Confirm"
+  },
+  "@common_update_in_all_capital": {
+    "description": "UPDATE"
+  },
+  "@common_update_in_all_lower": {
+    "description": "update"
+  },
+  "@common_update_ucfirst": {
+    "description": "Update"
+  },
+  "@common_send_in_all_capital": {
+    "description": "SEND"
+  },
+  "@common_send_in_all_lower": {
+    "description": "send"
+  },
+  "@common_send_ucfirst": {
+    "description": "Send"
+  },
+  "@common_clear_in_all_capital": {
+    "description": "CLEAR"
+  },
+  "@common_clear_in_all_lower": {
+    "description": "clear"
+  },
+  "@common_clear_ucfirst": {
+    "description": "Clear"
+  },
+  "@common_apply_in_all_capital": {
+    "description": "APPLY"
+  },
+  "@common_apply_in_all_lower": {
+    "description": "apply"
+  },
+  "@common_apply_ucfirst": {
+    "description": "Apply"
+  },
+  "@common_add_in_all_capital": {
+    "description": "ADD"
+  },
+  "@common_add_in_all_lower": {
+    "description": "add"
+  },
+  "@common_add_ucfirst": {
+    "description": "Add"
+  },
+  "@common_copied": {
+    "description": "Copied"
+  },
+  "@common_proceed": {
+    "description": "Proceed"
+  },
+  "@common_proceed_in_all_caps": {
+    "description": "PROCEED"
+  },
+  "@common_submit": {
+    "description": "Submit"
+  },
+  "@common_view_more": {
+    "description": "View More"
+  },
+  "@common_show_less": {
+    "description": "Show Less"
+  },
+  "@common_selected": {
+    "description": "Selected"
+  },
+  "@common_creating_order": {
+    "description": "Creating order ..."
+  },
+  "@common_payment_cancelled": {
+    "description": "Payment Cancelled"
+  },
+  "@common_photo_permission": {
+    "description": "Photo Permission"
+  },
+  "@common_app_needs_permission": {
+    "description": "This app needs permission"
+  },
+  "@common_deny": {
+    "description": "Deny"
+  },
+  "@common_settings": {
+    "description": "Settings"
+  },
+  "@common_give_photo_permission": {
+    "description": "Go to your application settings and give photo permission"
+  },
+  "@common_no_file_chosen": {
+    "description": "No file is chosen"
+  },
+  "@main_drawer_not_logged_in": {
+    "description": "Not Logged In"
+  },
+  "@main_drawer_change_language": {
+    "description": "Change Language"
+  },
+  "@main_drawer_home": {
+    "description": "Home"
+  },
+  "@main_drawer_profile": {
+    "description": "Profile"
+  },
+  "@main_drawer_orders": {
+    "description": "Orders"
+  },
+  "@main_drawer_my_wishlist": {
+    "description": "My Wishlist"
+  },
+  "@main_drawer_messages": {
+    "description": "Messages"
+  },
+  "@main_drawer_wallet": {
+    "description": "Wallet"
+  },
+  "@main_drawer_login": {
+    "description": "Login"
+  },
+  "@main_drawer_logout": {
+    "description": "Logout"
+  },
+  "@home_screen_top_categories": {
+    "description": "Top Categories"
+  },
+  "@home_screen_brands": {
+    "description": "Brands"
+  },
+  "@home_screen_top_sellers": {
+    "description": "Top Sellers"
+  },
+  "@home_screen_todays_deal": {
+    "description": "Todays Deal"
+  },
+  "@home_screen_flash_deal": {
+    "description": "Flash Deal"
+  },
+  "@home_screen_featured_categories": {
+    "description": "Featured Categories"
+  },
+  "@home_screen_featured_products": {
+    "description": "Featured Products"
+  },
+  "@home_screen_search": {
+    "description": "Search"
+  },
+  "@home_screen_no_carousel_image_found": {
+    "description": "No carousel image found"
+  },
+  "@home_screen_no_category_found": {
+    "description": "No category found"
+  },
+  "@category_list_screen_top_categories": {
+    "description": "Top Categories"
+  },
+  "@category_list_screen_categories": {
+    "description": "Categories"
+  },
+  "@category_list_screen_view_products": {
+    "description": "View Products"
+  },
+  "@category_list_screen_view_subcategories": {
+    "description": "View Sub-Categories"
+  },
+  "@category_list_screen_no_subcategories": {
+    "description": "No sub categories available"
+  },
+  "@category_list_screen_all_products_of": {
+    "description": "All Products of"
+  },
+  "@cart_screen_cannot_order_more_than": {
+    "description": "Cannot order more than"
+  },
+  "@cart_screen_items_of_this": {
+    "description": "item(s) of this"
+  },
+  "@cart_screen_sure_remove_item": {
+    "description": "Are you sure to remove this item ?"
+  },
+  "@cart_screen_cancel": {
+    "description": "Cancel"
+  },
+  "@cart_screen_confirm": {
+    "description": "Confirm"
+  },
+  "@cart_screen_cart_empty": {
+    "description": "Cart is empty"
+  },
+  "@cart_screen_total_amount": {
+    "description": "Total Amount"
+  },
+  "@cart_screen_update_cart": {
+    "description": "UPDATE CART"
+  },
+  "@cart_screen_proceed_to_shipping": {
+    "description": "PROCEED TO SHIPPING"
+  },
+  "@cart_screen_shopping_cart": {
+    "description": "Shopping Cart"
+  },
+  "@cart_screen_please_log_in": {
+    "description": "Please log in to see the cart items"
+  },
+  "@profile_screen_please_log_in": {
+    "description": "Please log in to see the profile"
+  },
+  "@profile_screen_orders": {
+    "description": "Orders"
+  },
+  "@profile_screen_profile": {
+    "description": "Profile"
+  },
+  "@profile_screen_address": {
+    "description": "Address"
+  },
+  "@profile_screen_notification": {
+    "description": "Notification"
+  },
+  "@profile_screen_purchase_history": {
+    "description": "Purchase History"
+  },
+  "@profile_screen_earning_points": {
+    "description": "Earning Points History"
+  },
+  "@profile_screen_refund_requests": {
+    "description": "Refund Requests"
+  },
+  "@profile_screen_in_your_cart": {
+    "description": "In your cart"
+  },
+  "@profile_screen_in_wishlist": {
+    "description": "In wishlist"
+  },
+  "@profile_screen_in_ordered": {
+    "description": "In Ordered"
+  },
+  "@profile_screen_check_balance": {
+    "description": "Check Balance"
+  },
+  "@profile_screen_account": {
+    "description": "Account"
+  },
+  "@flash_deal_list_screen_flash_deal_has_ended": {
+    "description": "Flashdeal has ended"
+  },
+  "@flash_deal_list_screen_ended": {
+    "description": "Ended"
+  },
+  "@flash_deal_list_flash_deals": {
+    "description": "Flash Deals"
+  },
+  "@todays_deal_products_screen_todays_deal": {
+    "description": "Today's Deal"
+  },
+  "@top_selling_products_screen_top_selling_products": {
+    "description": "Top Selling Products"
+  },
+  "@filter_screen_product": {
+    "description": "Product"
+  },
+  "@filter_screen_products": {
+    "description": "Products"
+  },
+  "@filter_screen_sellers": {
+    "description": "Sellers"
+  },
+  "@filter_screen_brands": {
+    "description": "Brands"
+  },
+  "@filter_screen_categories": {
+    "description": "Categories"
+  },
+  "@filter_screen_filter_warning": {
+    "description": "You can use filters while searching for products."
+  },
+  "@filter_screen_filter": {
+    "description": "Filter"
+  },
+  "@filter_screen_sort_products_by": {
+    "description": "Sort Products By"
+  },
+  "@filter_screen_price_high_to_low": {
+    "description": "Price high to low"
+  },
+  "@filter_screen_price_low_to_high": {
+    "description": "Price low to high"
+  },
+  "@filter_screen_price_new_arrival": {
+    "description": "New Arrival"
+  },
+  "@filter_screen_popularity": {
+    "description": "Popularity"
+  },
+  "@filter_screen_top_rated": {
+    "description": "Top Rated"
+  },
+  "@filter_screen_maximum": {
+    "description": "Maximum"
+  },
+  "@filter_screen_minimum": {
+    "description": "Minimum"
+  },
+  "@filter_screen_price_range": {
+    "description": "Price Range"
+  },
+  "@filter_screen_search_here": {
+    "description": "Search here ?"
+  },
+  "@filter_screen_no_suggestion_available": {
+    "description": "No suggestion is available"
+  },
+  "@filter_screen_searched_for": {
+    "description": "searched for"
+  },
+  "@filter_screen_times": {
+    "description": "time(s)"
+  },
+  "@filter_screen_found": {
+    "description": "found"
+  },
+  "@filter_screen_loading_suggestions": {
+    "description": "Loading suggestions..."
+  },
+  "@filter_screen_sort": {
+    "description": "Sort"
+  },
+  "@filter_screen_default": {
+    "description": "Default"
+  },
+  "@filter_screen_sort_warning": {
+    "description": "You can use sorting while searching for products."
+  },
+  "@filter_screen_min_max_warning": {
+    "description": "Min price cannot be larger than max price"
+  },
+  "@product_details_screen_copy_product_link": {
+    "description": "Copy Product Link"
+  },
+  "@product_details_screen_share_options": {
+    "description": "Share Options"
+  },
+  "@product_details_screen_seller_chat_title": {
+    "description": "Title"
+  },
+  "@product_details_screen_seller_chat_enter_title": {
+    "description": "Enter Title"
+  },
+  "@product_details_screen_seller_chat_messasge": {
+    "description": "Message"
+  },
+  "@product_details_screen_seller_chat_enter_messasge": {
+    "description": "Enter Message"
+  },
+  "@product_details_screen_seller_chat_title_message_empty_warning": {
+    "description": "Title or message cannot be empty"
+  },
+  "@product_details_screen_seller_chat_creation_unable_warning": {
+    "description": "Could not create conversation"
+  },
+  "@product_details_screen_snackbar_added_to_cart": {
+    "description": "Added to cart"
+  },
+  "@product_details_screen_snackbar_show_cart": {
+    "description": "SHOW CART"
+  },
+  "@product_details_screen_description": {
+    "description": "Description:"
+  },
+  "@product_details_screen_brand": {
+    "description": "Brand:"
+  },
+  "@product_details_screen_total_price": {
+    "description": "Total Price:"
+  },
+  "@product_details_screen_price": {
+    "description": "Price:"
+  },
+  "@product_details_screen_color": {
+    "description": "Color:"
+  },
+  "@product_details_screen_seller": {
+    "description": "Seller"
+  },
+  "@product_details_screen_club_point": {
+    "description": "Club Point:"
+  },
+  "@product_details_screen_quantity": {
+    "description": "Quantity:"
+  },
+  "@product_details_screen_video_not_available": {
+    "description": "Video not available"
+  },
+  "@product_details_screen_video": {
+    "description": "Video"
+  },
+  "@product_details_screen_reviews": {
+    "description": "Reviews"
+  },
+  "@product_details_screen_seller_policy": {
+    "description": "Seller Policy"
+  },
+  "@product_details_screen_return_policy": {
+    "description": "Return Policy"
+  },
+  "@product_details_screen_support_policy": {
+    "description": "Support Policy"
+  },
+  "@product_details_screen_products_may_like": {
+    "description": "Products you may also like"
+  },
+  "@product_details_screen_top_selling_products_from_seller": {
+    "description": "Top Selling Products from this seller"
+  },
+  "@product_details_screen_chat_with_seller": {
+    "description": "Chat with seller"
+  },
+  "@product_details_screen_available": {
+    "description": "available"
+  },
+  "@product_details_screen_button_add_to_cart": {
+    "description": "Add to Cart"
+  },
+  "@product_details_screen_button_buy_now": {
+    "description": "Buy Now"
+  },
+  "@product_details_screen_no_top_selling_product": {
+    "description": "No top selling products from this seller"
+  },
+  "@product_details_screen_no_related_product": {
+    "description": "No related products"
+  },
+  "@order_list_screen_all": {
+    "description": "All"
+  },
+  "@order_list_screen_paid": {
+    "description": "Paid"
+  },
+  "@order_list_screen_unpaid": {
+    "description": "Unpaid"
+  },
+  "@order_list_screen_confirmed": {
+    "description": "Confirmed"
+  },
+  "@order_list_screen_on_delivery": {
+    "description": "On Delivery"
+  },
+  "@order_list_screen_delivered": {
+    "description": "Delivered"
+  },
+  "@order_list_screen_no_more_orders": {
+    "description": "No More Orders"
+  },
+  "@order_list_screen_loading_more_orders": {
+    "description": "Loading More order ..."
+  },
+  "@order_list_screen_purchase_history": {
+    "description": "Purchase History"
+  },
+  "@order_list_screen_payment_status": {
+    "description": "Payment Status"
+  },
+  "@order_list_screen_delivery_status": {
+    "description": "Delivery Status"
+  },
+  "@order_details_screen_refund_product_name": {
+    "description": "Product Name"
+  },
+  "@order_details_screen_refund_order_code": {
+    "description": "Order Code"
+  },
+  "@order_details_screen_refund_reason": {
+    "description": "Reason"
+  },
+  "@order_details_screen_refund_reason_empty_warning": {
+    "description": "Reason cannot be empty"
+  },
+  "@order_details_screen_refund_enter_reason": {
+    "description": "Enter Reason"
+  },
+  "@order_details_screen_refund_snackbar_show_request_list": {
+    "description": "Show Request List"
+  },
+  "@order_details_screen_ordered_product": {
+    "description": "Ordered Product"
+  },
+  "@order_details_screen_no_item_ordered": {
+    "description": "No items are ordered"
+  },
+  "@order_details_screen_sub_total": {
+    "description": "SUB TOTAL"
+  },
+  "@order_details_screen_tax": {
+    "description": "TAX"
+  },
+  "@order_details_screen_shipping_cost": {
+    "description": "SHIPPING COST"
+  },
+  "@order_details_screen_discount": {
+    "description": "DISCOUNT"
+  },
+  "@order_details_screen_grand_total": {
+    "description": "GRAND TOTAL"
+  },
+  "@order_details_screen_timeline_tile_order_placed": {
+    "description": "Order placed"
+  },
+  "@order_details_screen_timeline_tile_confirmed": {
+    "description": "Confirmed"
+  },
+  "@order_details_screen_timeline_tile_on_delivery": {
+    "description": "On Delivery"
+  },
+  "@order_details_screen_timeline_tile_delivered": {
+    "description": "Delivered"
+  },
+  "@order_details_screen_order_code": {
+    "description": "Order Code"
+  },
+  "@order_details_screen_shipping_method": {
+    "description": "Shipping Method"
+  },
+  "@order_details_screen_order_date": {
+    "description": "Order Date"
+  },
+  "@order_details_screen_payment_method": {
+    "description": "Payment Method"
+  },
+  "@order_details_screen_payment_status": {
+    "description": "Payment Status"
+  },
+  "@order_details_screen_delivery_status": {
+    "description": "Delivery Status"
+  },
+  "@order_details_screen_shipping_address": {
+    "description": "Shipping Address"
+  },
+  "@order_details_screen_total_amount": {
+    "description": "Total Amount"
+  },
+  "@order_details_screen_name": {
+    "description": "Name"
+  },
+  "@order_details_screen_email": {
+    "description": "Email"
+  },
+  "@order_details_screen_address": {
+    "description": "Address"
+  },
+  "@order_details_screen_city": {
+    "description": "City"
+  },
+  "@order_details_screen_state": {
+    "description": "State"
+  },
+  "@order_details_screen_country": {
+    "description": "Country"
+  },
+  "@order_details_screen_phone": {
+    "description": "Phone"
+  },
+  "@order_details_screen_postal_code": {
+    "description": "Postal code"
+  },
+  "@order_details_screen_item": {
+    "description": "item"
+  },
+  "@order_details_screen_ask_for_refund": {
+    "description": "Ask For Refund"
+  },
+  "@order_details_screen_refund_status": {
+    "description": "Refund Status"
+  },
+  "@order_details_screen_order_details": {
+    "description": "Order Details"
+  },
+  "@order_details_screen_make_offline_payment": {
+    "description": "Make Offline Payment"
+  },
+  "@shipping_info_screen_address_choice_warning": {
+    "description": "Choose an address"
+  },
+  "@shipping_info_screen_address_or_pickup_choice_warning": {
+    "description": "Choose an address or pickup point"
+  },
+  "@shipping_info_screen_country_warning": {
+    "description": "Select a country"
+  },
+  "@shipping_info_screen_go_to_address": {
+    "description": "To add or edit addresses, Go to address page"
+  },
+  "@shipping_info_screen_address": {
+    "description": "Address"
+  },
+  "@shipping_info_screen_city": {
+    "description": "City"
+  },
+  "@shipping_info_screen_enter_city": {
+    "description": "Enter City"
+  },
+  "@shipping_info_screen_postal_code": {
+    "description": "Postal Code"
+  },
+  "@shipping_info_screen_country": {
+    "description": "Country"
+  },
+  "@shipping_info_screen_state": {
+    "description": "State"
+  },
+  "@shipping_info_screen_phone": {
+    "description": "Phone"
+  },
+  "@shipping_info_screen_shipping_cost": {
+    "description": "Shipping Cost"
+  },
+  "@shipping_info_screen_btn_proceed_to_checkout": {
+    "description": "PROCEED TO CHECKOUT"
+  },
+  "@no_pickup_point": {
+    "description": "Pickup Point Is Unavailable"
+  },
+  "@pickup_point": {
+    "description": "Pickup Point"
+  },
+  "@messenger_list_screen_messages": {
+    "description": "Messages"
+  },
+  "@chat_screen_btn_load_more": {
+    "description": "Load More"
+  },
+  "@chat_screen_type_message_here": {
+    "description": "Type your message here ..."
+  },
+  "@wallet_screen_amount_warning": {
+    "description": "Amount cannot be empty"
+  },
+  "@wallet_screen_my_wallet": {
+    "description": "My Wallet"
+  },
+  "@wallet_screen_no_recharges_yet": {
+    "description": "No recharges yet"
+  },
+  "@wallet_screen_payment_method": {
+    "description": "Payment Method"
+  },
+  "@wallet_screen_approval_status": {
+    "description": "Approval Status"
+  },
+  "@wallet_screen_wallet_balance": {
+    "description": "Wallet Balance"
+  },
+  "@wallet_screen_last_recharged": {
+    "description": "Last recharged"
+  },
+  "@wallet_screen_wallet_recharge_history": {
+    "description": "Wallet Recharge History"
+  },
+  "@wallet_screen_amount": {
+    "description": "Amount"
+  },
+  "@wallet_screen_enter_amount": {
+    "description": "Enter Amount"
+  },
+  "@recharge_wallet_screen_recharge_wallet": {
+    "description": "Recharge Wallet"
+  },
+  "@checkout_screen_enter_coupon_code": {
+    "description": "Enter coupon code"
+  },
+  "@checkout_screen_coupon_code_warning": {
+    "description": "Enter coupon code"
+  },
+  "@checkout_screen_subtotal": {
+    "description": "SUB TOTAL"
+  },
+  "@checkout_screen_tax": {
+    "description": "TAX"
+  },
+  "@checkout_screen_shipping_cost": {
+    "description": "SHIPPING COST"
+  },
+  "@checkout_screen_discount": {
+    "description": "DISCOUNT"
+  },
+  "@checkout_screen_grand_total": {
+    "description": "GRAND TOTAL"
+  },
+  "@checkout_screen_total_amount": {
+    "description": "Total Amount"
+  },
+  "@checkout_screen_coupon_code": {
+    "description": "Coupon Code"
+  },
+  "@checkout_screen_apply_coupon": {
+    "description": "APPLY COUPON"
+  },
+  "@checkout_screen_place_my_order": {
+    "description": "PLACE MY ORDER"
+  },
+  "@checkout_screen_remove": {
+    "description": "Remove"
+  },
+  "@checkout_screen_checkout": {
+    "description": "Checkout"
+  },
+  "@wishlist_screen_login_warning": {
+    "description": "Please log in to see the wishlist items"
+  },
+  "@wishlist_screen_my_wishlist": {
+    "description": "My Wishlist"
+  },
+  "@login_screen_email_warning": {
+    "description": "Enter email"
+  },
+  "@login_screen_phone_warning": {
+    "description": "Enter phone number"
+  },
+  "@login_screen_password_warning": {
+    "description": "Enter password"
+  },
+  "@login_screen_login_to": {
+    "description": "Login to"
+  },
+  "@login_screen_or_login_with_phone": {
+    "description": "or, Login with a phone number"
+  },
+  "@login_screen_or_login_with_email": {
+    "description": "or, Login with an email"
+  },
+  "@login_screen_email": {
+    "description": "Email"
+  },
+  "@login_screen_password": {
+    "description": "Password"
+  },
+  "@login_screen_phone": {
+    "description": "Phone"
+  },
+  "@login_screen_forgot_password": {
+    "description": "Forgot Password?"
+  },
+  "@login_screen_log_in": {
+    "description": "Log in"
+  },
+  "@login_screen_or_create_new_account": {
+    "description": "or, create a new account ?"
+  },
+  "@login_screen_sign_up": {
+    "description": "Sign up"
+  },
+  "@login_screen_login_with": {
+    "description": "Login with"
+  },
+  "@registration_screen_name_warning": {
+    "description": "Enter your name"
+  },
+  "@registration_screen_email_warning": {
+    "description": "Enter email"
+  },
+  "@registration_screen_phone_warning": {
+    "description": "Enter phone number"
+  },
+  "@registration_screen_password_warning": {
+    "description": "Enter password"
+  },
+  "@registration_screen_password_confirm_warning": {
+    "description": "Confirm your password"
+  },
+  "@registration_screen_password_length_warning": {
+    "description": "Password must contain atleast 6 characters"
+  },
+  "@registration_screen_password_length_recommendation": {
+    "description": "Password must contain at least 6 characters"
+  },
+  "@registration_screen_password_match_warning": {
+    "description": "Passwords do not match"
+  },
+  "@registration_screen_join": {
+    "description": "Join"
+  },
+  "@registration_screen_name": {
+    "description": "Name"
+  },
+  "@registration_screen_email": {
+    "description": "Email"
+  },
+  "@registration_screen_phone": {
+    "description": "Phone"
+  },
+  "@registration_screen_password": {
+    "description": "Password"
+  },
+  "@registration_screen_retype_password": {
+    "description": "Retype Password"
+  },
+  "@registration_screen_or_register_with_phone": {
+    "description": "or, Register with a phone number"
+  },
+  "@registration_screen_or_register_with_email": {
+    "description": "or, Register with an email"
+  },
+  "@registration_screen_register_sign_up": {
+    "description": "Sign Up"
+  },
+  "@registration_screen_already_have_account": {
+    "description": "Already have an Account ?"
+  },
+  "@registration_screen_log_in": {
+    "description": "Log in"
+  },
+  "@password_forget_screen_email": {
+    "description": "Email"
+  },
+  "@password_forget_screen_phone": {
+    "description": "Phone"
+  },
+  "@password_forget_screen_email_warning": {
+    "description": "Enter email"
+  },
+  "@password_forget_screen_phone_warning": {
+    "description": "Enter phone number"
+  },
+  "@password_forget_screen_forget_password": {
+    "description": "Forget Password ?"
+  },
+  "@password_forget_screen_send_code_via_phone": {
+    "description": "or, send code via phone number"
+  },
+  "@password_forget_screen_send_code_via_email": {
+    "description": "or, send code via email"
+  },
+  "@otp_screen_btn_send_code": {
+    "description": "Send Code"
+  },
+  "@otp_screen_verification_code_warning": {
+    "description": "Enter verification code"
+  },
+  "@otp_screen_verify_your": {
+    "description": "Verify your"
+  },
+  "@otp_screen_email_account": {
+    "description": "Email Account"
+  },
+  "@otp_screen_phone_number": {
+    "description": "Phone Number"
+  },
+  "@otp_screen_enter_verification_code_to_email": {
+    "description": "Enter the verification code that sent to your email recently."
+  },
+  "@otp_screen_enter_verification_code_to_phone": {
+    "description": "Enter the verification code that sent to your phone recently."
+  },
+  "@otp_screen_confirm": {
+    "description": "Confirm"
+  },
+  "@otp_screen_resend_code": {
+    "description": "Resend Code"
+  },
+  "@password_otp_screen_code_warning": {
+    "description": "Enter the code"
+  },
+  "@password_otp_screen_password_warning": {
+    "description": "Enter password"
+  },
+  "@password_otp_screen_password_confirm_warning": {
+    "description": "Confirm your password"
+  },
+  "@password_otp_screen_password_length_warning": {
+    "description": "Password must contain at least 6 characters"
+  },
+  "@password_otp_screen_password_length_recommendation": {
+    "description": "Password must contain at least 6 characters"
+  },
+  "@password_otp_screen_password_match_warning": {
+    "description": "Passwords do not match"
+  },
+  "@password_otp_screen_enter_the_code_sent": {
+    "description": "Enter the code sent"
+  },
+  "@password_otp_screen_enter_verification_code_to_email": {
+    "description": "Enter the verification code that sent to your email recently."
+  },
+  "@password_otp_screen_enter_verification_code_to_phone": {
+    "description": "Enter the verification code that sent to your phone recently."
+  },
+  "@password_otp_screen_password": {
+    "description": "Password"
+  },
+  "@password_otp_screen_retype_password": {
+    "description": "Retype Password"
+  },
+  "@password_otp_screen_confirm": {
+    "description": "Confirm"
+  },
+  "@password_otp_screen_resend_code": {
+    "description": "Resend Code"
+  },
+  "@address_screen_address_warning": {
+    "description": "Enter Address"
+  },
+  "@address_screen_back_to_shipping_info": {
+    "description": "Back to shipping info"
+  },
+  "@address_screen_city_warning": {
+    "description": "Select a city"
+  },
+  "@address_screen_state_warning": {
+    "description": "Select a state"
+  },
+  "@address_screen_country_warning": {
+    "description": "Select a country"
+  },
+  "@address_screen_address": {
+    "description": "Address"
+  },
+  "@address_screen_enter_address": {
+    "description": "Enter Address"
+  },
+  "@address_screen_city": {
+    "description": "City"
+  },
+  "@address_screen_select_city": {
+    "description": "Select a city"
+  },
+  "@address_screen_enter_city": {
+    "description": "Enter City"
+  },
+  "@address_screen_postal_code": {
+    "description": "Postal Code"
+  },
+  "@address_screen_enter_postal_code": {
+    "description": "Enter Postal Code"
+  },
+  "@address_screen_country": {
+    "description": "Country"
+  },
+  "@address_screen_select_country": {
+    "description": "Select a country"
+  },
+  "@address_screen_enter_country": {
+    "description": "Enter Country"
+  },
+  "@address_screen_state": {
+    "description": "State"
+  },
+  "@address_screen_select_state": {
+    "description": "Select a state"
+  },
+  "@address_screen_enter_state": {
+    "description": "Enter State"
+  },
+  "@address_screen_phone": {
+    "description": "Phone"
+  },
+  "@address_screen_enter_phone": {
+    "description": "Enter Phone"
+  },
+  "@address_screen_address_remove_warning": {
+    "description": "Are you sure to remove this address ?"
+  },
+  "@address_screen_addresses_of_user": {
+    "description": "Addresses of user"
+  },
+  "@address_screen_addresses_to_make_default": {
+    "description": "Double tap on an address to make it default"
+  },
+  "@address_screen_no_country_available": {
+    "description": "No country available"
+  },
+  "@address_screen_no_state_available": {
+    "description": "No state available"
+  },
+  "@address_screen_no_city_available": {
+    "description": "No city available"
+  },
+  "@address_screen_loading_countries": {
+    "description": "Loading Countries ..."
+  },
+  "@address_screen_loading_states": {
+    "description": "Loading States ..."
+  },
+  "@address_screen_loading_cities": {
+    "description": "Loading Cities ..."
+  },
+  "@address_screen_select_a_country_first": {
+    "description": "Select a country first"
+  },
+  "@address_screen_select_a_state_first": {
+    "description": "Select a state first"
+  },
+  "@main_screen_bottom_navigation_home": {
+    "description": "Home"
+  },
+  "@main_screen_bottom_navigation_categories": {
+    "description": "Categories"
+  },
+  "@main_screen_bottom_navigation_cart": {
+    "description": "Cart"
+  },
+  "@main_screen_bottom_navigation_profile": {
+    "description": "Profile"
+  },
+  "@bkash_screen_fetching_bkash_url": {
+    "description": "Fetching bkash url ..."
+  },
+  "@bkash_screen_pay_with_bkash": {
+    "description": "Pay with Bkash"
+  },
+  "@nagad_screen_fetching_nagad_url": {
+    "description": "Fetching nagad url ..."
+  },
+  "@nagad_screen_pay_with_nagad": {
+    "description": "Pay with Nagad"
+  },
+  "@iyzico_screen_pay_with_iyzico": {
+    "description": "Pay with Iyzico"
+  },
+  "@paypal_screen_fetching_paypal_url": {
+    "description": "Fetching paypal url ..."
+  },
+  "@paypal_screen_pay_with_paypal": {
+    "description": "Pay with Paypal"
+  },
+  "@paystack_screen_pay_with_paystack": {
+    "description": "Pay with Paystack"
+  },
+  "@paytm_screen_pay_with_paytm": {
+    "description": "Pay with Paytm"
+  },
+  "@razorpay_screen_pay_with_razorpay": {
+    "description": "Pay with Razorpay"
+  },
+  "@sslcommerz_screen_fetching_sslcommerz_url": {
+    "description": "Fetching sslcommerz url ..."
+  },
+  "@sslcommerz_screen_pay_with_sslcommerz": {
+    "description": "Pay with Sslcommerz"
+  },
+  "@stripe_screen_pay_with_stripe": {
+    "description": "Pay with Stripe"
+  },
+  "@brand_products_screen_search_product_of_brand": {
+    "description": "Search products of brand"
+  },
+  "@category_products_screen_search_products_from": {
+    "description": "Search products from"
+  },
+  "@flash_deal_products_screen_search_products_from": {
+    "description": "Search products from"
+  },
+  "@change_language_change_language": {
+    "description": "Change Language"
+  },
+  "@change_language_no_language_is_added": {
+    "description": "No language is Added"
+  },
+  "@club_point_screen_snackbar_points_converted": {
+    "description": "Points converted to wallet"
+  },
+  "@club_point_screen_snackbar_show_wallet": {
+    "description": "SHOW WALLET"
+  },
+  "@club_point_screen_earned_points": {
+    "description": "Earned Points"
+  },
+  "@club_point_screen_converted_question": {
+    "description": "Converted ?"
+  },
+  "@club_point_screen_done": {
+    "description": "DONE"
+  },
+  "@club_point_screen_convert": {
+    "description": "Convert"
+  },
+  "@map_location_screen_your_delivery_location": {
+    "description": "Your delivery location . . ."
+  },
+  "@map_location_screen_calculating": {
+    "description": "Calculating..."
+  },
+  "@map_location_screen_pick_here": {
+    "description": "Pick Here"
+  },
+  "@offline_screen_amount_name_trxid_warning": {
+    "description": "Amount,Name and Transaction Id are necessary"
+  },
+  "@offline_screen_photo_warning": {
+    "description": "Photo proof is necessary"
+  },
+  "@offline_screen_offline_payment": {
+    "description": "Offline Payment"
+  },
+  "@offline_screen_fields_mandatory": {
+    "description": "All * marked fields are mandatory"
+  },
+  "@offline_screen_fill_up_necessary_info": {
+    "description": "Correctly fill-up the necessary information. Later you cannot edit or re-submit the form"
+  },
+  "@offline_screen_amount": {
+    "description": "Amount"
+  },
+  "@offline_screen_name": {
+    "description": "Name"
+  },
+  "@offline_screen_transaction_id": {
+    "description": "Transaction Id"
+  },
+  "@offline_screen_photo_proof": {
+    "description": "Photo Proof"
+  },
+  "@offline_screen_only_image_file_allowed": {
+    "description": "only image file allowed"
+  },
+  "@product_reviews_screen_type_your_review_here": {
+    "description": "Type your review here ..."
+  },
+  "@product_reviews_screen_no_more_reviews": {
+    "description": "No More Reviews"
+  },
+  "@product_reviews_screen_loading_more_reviews": {
+    "description": "Loading More Reviews ..."
+  },
+  "@product_reviews_screen_no_reviews_yet": {
+    "description": "No reviews yet. Be the first one to review this product"
+  },
+  "@product_reviews_screen_reviews": {
+    "description": "Reviews"
+  },
+  "@product_reviews_screen_login_warning": {
+    "description": "You need to login to give a review"
+  },
+  "@product_reviews_screen_review_empty_warning": {
+    "description": "Review cannot be empty"
+  },
+  "@product_reviews_screen_star_warning": {
+    "description": "At least one star must be given"
+  },
+  "@profile_edit_screen_name_warning": {
+    "description": "Enter your name"
+  },
+  "@profile_edit_screen_email_warning": {
+    "description": "Enter email"
+  },
+  "@profile_edit_screen_phone_warning": {
+    "description": "Enter phone number"
+  },
+  "@profile_edit_screen_password_warning": {
+    "description": "Enter password"
+  },
+  "@profile_edit_screen_password_confirm_warning": {
+    "description": "Confirm your password"
+  },
+  "@profile_edit_screen_password_length_warning": {
+    "description": "Password must contain atleast 6 characters"
+  },
+  "@profile_edit_screen_password_match_warning": {
+    "description": "Passwords do not match"
+  },
+  "@profile_edit_screen_password_length_recommendation": {
+    "description": "Password must contain at least 6 characters"
+  },
+  "@profile_edit_screen_login_warning": {
+    "description": "Please log in to see the profile"
+  },
+  "@profile_edit_screen_basic_information": {
+    "description": "Basic Information"
+  },
+  "@profile_edit_screen_name": {
+    "description": "Name"
+  },
+  "@profile_edit_screen_password": {
+    "description": "Password"
+  },
+  "@profile_edit_screen_retype_password": {
+    "description": "Retype Password"
+  },
+  "@profile_edit_screen_btn_update_profile": {
+    "description": "Update Profile"
+  },
+  "@profile_edit_screen_edit_profile": {
+    "description": "Edit Profile"
+  },
+  "@refund_request_screen_refund_requests": {
+    "description": "Refund Requests"
+  },
+  "@refund_request_screen_refund_status": {
+    "description": "Refund Status"
+  },
+  "@seller_details_screen_top_selling_products": {
+    "description": "Top Selling Products"
+  },
+  "@seller_details_screen_featured_products": {
+    "description": "Featured Products"
+  },
+  "@seller_details_screen_new_arrivals": {
+    "description": "New Arrivals"
+  },
+  "@seller_details_screen_no_featured_porducts": {
+    "description": "No featured product is available from this seller"
+  },
+  "@seller_details_screen_no_top_selling_products": {
+    "description": "No top selling products from this seller"
+  },
+  "@seller_details_screen_no_new_arrival": {
+    "description": "No new arrivals"
+  },
+  "@seller_details_screen_btn_view_all_products": {
+    "description": "View All Products From This Seller"
+  },
+  "@seller_products_screen_search_products_of_shop": {
+    "description": "Search products of shop"
+  }
+}
